@@ -40,6 +40,9 @@ markdown_extensions:
       combine_header_slug: true
   - admonition
   - pymdownx.details
+plugins:
+  - search
+  - blog
 extra:
   generator: false
 copyright: © 2024 Minh Luu
